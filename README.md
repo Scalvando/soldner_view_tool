@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SoldnerViewTool::Renderer.copyright('Your Company Name', 'All rights reserved')
+```
 
 ## Development
 
